@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mMax" type="id" />
+    <item name="mMin" type="id" />
+    <item name="mRandom" type="id" />
+    <item name="mResult" type="id" />
+</resources>
