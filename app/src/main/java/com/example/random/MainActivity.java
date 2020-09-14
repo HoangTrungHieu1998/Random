@@ -131,6 +131,7 @@ public class MainActivity extends AppCompatActivity {
 
                 // Xoá text view
                 mResult.setText("");
+                mKetqua="";
             }
         });
     }
